@@ -1,0 +1,18 @@
+# Basics
+countryName = ""
+gdp = 0
+population = 0
+balance = 0
+ongoingWars = []
+ongoingAllies = []
+ongoingMeetings = []
+
+# List of Countries
+countries = [
+    "One",
+    "Two",
+    "Three",
+    "Four",
+    "Five"
+]
+# One.toml etc duplicate of this, but with stuff like allies and their standing with this one and others incase theres war in the future
